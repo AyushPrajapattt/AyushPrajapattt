@@ -91,9 +91,9 @@ Codesuu allows:
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=AyushPrajapatt&theme=dark&hide_border=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AyushPrajapatt&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushPrajapatt&theme=dark&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=AyushPrajapattt&theme=dark&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AyushPrajapattt&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushPrajapattt&theme=dark&layout=compact)
 
 ---
 
@@ -112,4 +112,4 @@ Codesuu allows:
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=AyushPrajapatt&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=AyushPrajapattt&icon=0&color=0)](https://visitcount.itsvg.in)
